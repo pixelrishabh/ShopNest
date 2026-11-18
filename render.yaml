@@ -38,3 +38,4 @@ services:
         value: "placeholder_webhook_secret"
       - key: EMAIL_FROM
         value: "orders@shopnest.local"
+
